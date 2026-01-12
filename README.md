@@ -1,6 +1,6 @@
 ## Hi there Geeks, Purvi here.👋
-- 🔭 I’m currently a Third-year IT student.
-- 🌱 I’m currently learning Full-stack development and DSA ofcourse.
+- 🔭 I’m currently a Fourth-Year IT student.
+- 🌱 I’m Full stack web developer mainly interested in Backend with main focus on Springboot and Grails.
 - 🤔 I’m looking for help with my leetcode questions and error-prone code.
 - 🧐Looking forward to collaborate on fun web-dev projects and for exploring some new technologies.
 - 😄 Favorite time-pass: touch-typing ( currently 50wpm speed ..I'm trying to improve lol)
